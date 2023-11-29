@@ -1,0 +1,20 @@
+k=  128
+Average time of generating prime numbers:  0.4432085037231445  seconds
+Average time of generating generators:  0.0  seconds
+Average time of generating private keys:  0.06566820144653321  seconds
+Average time of generating public keys:  0.0  seconds
+Average time of generating shared keys:  0.0  seconds
+
+k=  192
+Average time of generating prime numbers:  4.671167993545533  seconds
+Average time of generating generators:  0.00019974708557128905  seconds
+Average time of generating private keys:  0.45702285766601564  seconds
+Average time of generating public keys:  0.0  seconds
+Average time of generating shared keys:  0.0  seconds
+
+k=  256
+Average time of generating prime numbers:  12.134752798080445  seconds
+Average time of generating generators:  0.0  seconds
+Average time of generating private keys:  0.8858694553375244  seconds
+Average time of generating public keys:  0.0  seconds
+Average time of generating shared keys:  0.0  seconds
